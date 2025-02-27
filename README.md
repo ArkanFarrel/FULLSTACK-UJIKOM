@@ -1,4 +1,4 @@
-# UJIKOM EXTERNAL ( FRONTEND ) - Property Management Application
+# UJIKOM EXTERNAL - Property Management Application
 
 ## 📝 Description
 A modern web-based property management system built with React. This application streamlines the process of managing real estate properties, enabling users to efficiently handle property listings, tenant information, and property transactions through an intuitive interface.
