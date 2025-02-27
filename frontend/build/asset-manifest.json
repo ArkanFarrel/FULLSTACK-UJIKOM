@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/frontend_UTS/static/css/main.c4783042.css",
+    "main.js": "/frontend_UTS/static/js/main.62e30390.js",
+    "static/media/rumah.jpg": "/frontend_UTS/static/media/rumah.3dfbc47ff3fb30e97e5d.jpg",
+    "index.html": "/frontend_UTS/index.html",
+    "main.c4783042.css.map": "/frontend_UTS/static/css/main.c4783042.css.map",
+    "main.62e30390.js.map": "/frontend_UTS/static/js/main.62e30390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4783042.css",
+    "static/js/main.62e30390.js"
+  ]
+}
